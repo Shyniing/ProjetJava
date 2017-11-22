@@ -1,0 +1,70 @@
+Le Boutiquier
+9 1 false 3 6 vert
+Le Colporteur
+9 2 false 1 8 vert
+L'Armateur
+5 3 true 3 6 vert
+L'Esclavagiste
+5 4 true 1 8 vert
+Le Rentier
+5 5 true 2 10 vert
+La Négociante
+9 6 false 3 10 vert
+La Bergère
+6 0 true 1 8 jaune
+Le Meunier
+10 0 false 2 8 jaune
+L'Exploitant
+12 0 false 1 10 jaune
+L'Aquaculteur
+11 0 false 3 9 jaune
+La Gardienne
+6 0 true 3 6 jaune
+Le Faucheur
+6 0 true 2 7 jaune
+Le Chef des armées
+4 7 true 1 8 rouge
+La Dresseuse
+4 8 true 3 6 rouge
+Le Recruteur
+4 9 true 2 10 rouge
+L'assassin
+6 10 false 1 10 rouge
+Le Geôlier
+7 11 false 3 6 rouge
+Le Questeur
+7 12 false 2 7 rouge
+Le Chasseur
+6 13 false 2 8 rouge
+Le Maitre de magie
+6 14 true 3 10 violet
+L'Alchimiste
+5 15 true 1 7 violet
+La Chamanesse
+5 16 true 3 6 violet
+L'Oracle
+5 17 true 2 8 violet
+L'Apprenti
+9 18 false 3 6 violet
+L'illisionniste
+9 19 false 1 10 violet
+L'Invocateur
+8 20 false 1 8 violet
+L'intrigant
+6 21 false 3 8 bleu
+Le Traitre
+6 22 false 3 12 bleu
+Le Corrupteur
+6 23 false 1 10 bleu
+Le Trésorier
+5 24 true 2 10 bleu
+Le Diplomate
+5 25 true 1 8 bleu
+L'Opportiniste
+5 26 true 3 6 bleu
+Le Sage
+4 27 false 6 10 blanc
+L'Ancien
+3 28 false 6 10 blanc
+L'Ermite
+5 29 false 6 10 blanc
